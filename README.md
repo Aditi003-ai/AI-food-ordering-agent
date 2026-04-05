@@ -50,13 +50,13 @@ Database: Google Sheets
 Memory Handling: n8n Simple Memory
 ## Google Sheets Structure
 Inventory Sheet  
-Food Item       	Quantity
-Pizza	10          Burger	5
+Food Item -Pizza	10        	
+Quantity- Burger	5
 ## Orders Sheet
 Customer Name	   Food Item	Quantity	    Order Date	    Status	  Description
 ## FAQ Sheet
-Question	          Answer
-Delivery time?    	30 mins
+Question - Answer
+Delivery time? - 30 mins
 ## Setup Instructions
 Install n8n
 Import the workflow JSON file
