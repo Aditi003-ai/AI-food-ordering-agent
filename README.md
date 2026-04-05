@@ -50,8 +50,8 @@ Database: Google Sheets
 Memory Handling: n8n Simple Memory
 ## Google Sheets Structure
 Inventory Sheet  
-Food Item     	Quantity
-Pizza	10        Burger	5
+Food Item       	Quantity
+Pizza	10          Burger	5
 ## Orders Sheet
 Customer Name	   Food Item	Quantity	    Order Date	    Status	  Description
 ## FAQ Sheet
